@@ -2,9 +2,16 @@
 
 * [Overview](#overview)
 * [Project Structure](#project-structure)
-* [Core Features by Role](#fCore-Features-by-Role)
-* [Technical Specifications](#Technical-Specifications)
-* [Project Lifecycle](#Project-Lifecycle)
+* [Core Features by Role](#core-features-by-role)
+* [Technical Specifications](#technical-specifications)
+* [Project Lifecycle](#project-lifecycle)
+* [Requirement Gathering](#requirement-gathering)
+* [Project Objectives](#project-objectives)
+  * [Why — Purpose of the System](#1-why--purpose-of-the-system)
+  * [Who — Target Users](#2-who--target-users)
+  * [When — When the System is Used](#3-when--when-the-system-is-used)
+* [Economic Feasibility](#economic-feasibility)
+
 
 ## Overview
 The Courier Management System (CMS) automates and streamlines logistics and delivery operations[cite: 276]. [cite_start]It connects customers, courier staff, delivery personnel, and super admins into a single, cohesive platform for end-to-end parcel management.
