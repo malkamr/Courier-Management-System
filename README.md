@@ -35,6 +35,7 @@ The Courier Management System (CMS) automates and streamlines logistics and deli
 │       │       Generate Documents.pdf
 │       │       login.pdf
 │       │       Search Shipment.pdf
+│       │       Update Delivery.pdf
 │       ├───customer
 │       │       Book Shipment.pdf
 │       │       customer.png
