@@ -10,7 +10,6 @@
   * [Why — Purpose of the System](#1-why--purpose-of-the-system)
   * [Who — Target Users](#2-who--target-users)
   * [When — When the System is Used](#3-when--when-the-system-is-used)
-* [Economic Feasibility](#economic-feasibility)
 
 
 ## Overview
