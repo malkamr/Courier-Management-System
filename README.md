@@ -105,3 +105,83 @@ The system was developed through four key phases:
 2. **System Design:** Created UI mockups, logic flows, and database schemas.
 3. **Implementation:** Coded frontend interfaces and backend automation for rates and GPS.
 4. **Documentation:** Compiled comprehensive records detailing the system's technical implementation and use cases.
+
+# Requirement Gathering
+
+The team gathered both functional and non-functional requirements to define the scope of the **Courier Management System**.  
+This phase focused on understanding the logistical needs of all users, including customers, courier admins, delivery personnel, and super admins, ensuring that all shipment tracking and management processes were clearly identified.
+
+---
+
+# Project Objectives
+
+## 1. Why — Purpose of the System
+
+The **Courier Management System** aims to automate and streamline logistics and delivery operations by:
+
+- Reducing manual effort
+- Improving operational efficiency
+- Ensuring accurate shipment tracking
+- Enhancing customer experience
+- Providing better administrative control and reporting
+
+### Key Features
+
+- Real-time parcel tracking
+- Secure online payments
+- Shipment and delivery management
+- Automated billing and manifests
+- Reporting and analytics tools
+
+---
+
+## 2. Who — Target Users
+
+The system is designed for multiple types of users:
+
+### Customers
+- Book shipments
+- Track parcels in real time
+- Make payments securely
+- Manage shipment history
+
+### Courier Admins (Staff / Managers)
+- Manage shipment data
+- Update parcel status and location
+- Generate manifests and bills
+- Handle delivery operations
+
+### Super Admins
+- Manage branches and staff
+- Update pricing and configurations
+- Monitor overall system performance
+- Analyze reports and statistics
+
+### Delivery Personnel
+- Handle parcel deliveries
+- Update shipment status using GPS
+- Confirm deliveries
+- Manage cash-on-delivery operations
+
+---
+
+## 3. When — When the System is Used
+
+The system is utilized throughout the complete shipment lifecycle:
+
+1. **Shipment Booking**
+   - Customers create shipment requests and make payments.
+
+2. **Shipment Processing**
+   - Staff update shipment details and parcel statuses.
+
+3. **Parcel Transit**
+   - Real-time GPS tracking is provided during delivery.
+
+4. **Delivery Confirmation**
+   - Delivery personnel confirm successful deliveries and proof of receipt.
+
+5. **Administrative Operations**
+   - Reports, analytics, monitoring, and performance management are handled by administrators.
+
+---
